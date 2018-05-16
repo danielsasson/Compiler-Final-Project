@@ -1,2 +1,3 @@
 # Compiler-Project
-Chez scheme compiler 
+
+A compiler for Chez Scheme to machine language.
